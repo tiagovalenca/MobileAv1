@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.avaliacao1.MainActivity">
+
+    <item
+        android:id="@+id/action_filter"
+        android:icon="@drawable/ic_baseline_filter_list"
+        android:title="Filter"
+        app:showAsAction="always"
+        />
+</menu>
